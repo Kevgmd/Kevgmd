@@ -1,6 +1,8 @@
-<h1 align="center">I'm Kevin - Beginner Web Developer 💻<br>
-  Always learning something new 📖
+<div align="center">
+<h1>I'm Kevin - Beginner Web Developer 💻<br>
+  <h2>Currently learning HTML and CSS 📖</h2>
 </h1>
 <h2>My Languages</h2>
 - Portuguese 🇧🇷<br>
-- English 🇺🇸
+- English 🇺🇸  
+</div>
