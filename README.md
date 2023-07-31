@@ -1,5 +1,6 @@
 <h1 align="center">I'm Kevin - Beginner Web Developer 💻<br>
+  Always learning something new 📖
 </h1>
-Hello and welcome to my profile, i can speak:<br>
+<h2>My Languages</h2>
 - Portuguese 🇧🇷<br>
 - English 🇺🇸
