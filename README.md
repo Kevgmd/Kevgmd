@@ -9,7 +9,7 @@
 | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mv0xe3hriho55hgfxegnw8uto&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=4195b9&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=mv0xe3hriho55hgfxegnw8uto&redirect=true)  |
 
 <h3>My Languages:</h3>
-- Portuguese 🇧🇷 <br>
+- Português 🇧🇷 <br>
 - English 🇺🇸 <br>
-- Deutsch (learning) 🇩🇪
+- Deutsch 🇩🇪
 </div>
