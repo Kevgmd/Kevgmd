@@ -10,5 +10,6 @@
 
 <h3>My Languages:</h3>
 - Portuguese 🇧🇷 <br>
-- English 🇺🇸  
+- English 🇺🇸 <br>
+- Deutsch (learning) 🇩🇪
 </div>
