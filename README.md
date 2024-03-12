@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Beginner Front-End Web Developer 💻<br> Currently learning HTML, CSS & Javascript📖</h1>
+<h1>Web Developer 💻<br> Currently learning HTML, CSS & Javascript📖</h1>
   <img src="git.png" height="200px" width="800px">
 
 -----------------------------------------------------
