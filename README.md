@@ -13,3 +13,8 @@
 - English 🇺🇸 <br>
 - Deutsch 🇩🇪
 </div>
+
+<div align='center'>
+  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,mysql,git)](https://skillicons.dev)
+</div>
