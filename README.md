@@ -8,13 +8,10 @@
 | ------------- |
 | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mv0xe3hriho55hgfxegnw8uto&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=4195b9&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=mv0xe3hriho55hgfxegnw8uto&redirect=true)  |
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,git)](https://skillicons.dev)
+
 <h3>My Languages:</h3>
 - Português 🇧🇷 <br>
 - English 🇺🇸 <br>
-- Deutsch 🇩🇪
-</div>
-
-<div align='center'>
-  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,git)](https://skillicons.dev)
+- Deutsch 🇩🇪 <br>
 </div>
