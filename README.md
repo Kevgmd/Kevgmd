@@ -6,7 +6,7 @@
 
 | Now Playing 🎵🎶  |
 | ------------- |
-| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mv0xe3hriho55hgfxegnw8uto&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=false&bar_color=4195b9&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=mv0xe3hriho55hgfxegnw8uto&redirect=true)  |
+| [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mv0xe3hriho55hgfxegnw8uto&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=75b3f5&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=mv0xe3hriho55hgfxegnw8uto&redirect=true) |
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mysql,git)](https://skillicons.dev)
 
