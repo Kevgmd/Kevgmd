@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Beginner Full-Stack Web Developer 💻<br> Currently learning React.js 📖</h1>
+<h1>Beginner Full-Stack Web Developer 💻📖</h1><br>
   <img src="git.png" height="200px" width="800px">
 
 -----------------------------------------------------
